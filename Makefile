@@ -1,4 +1,4 @@
-NAME	= printf.a
+NAME	= libftprintf.a
 INCLUDE	= include
 LIBFT	= libft
 SRC_DIR	= src/
